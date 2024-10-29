@@ -1,0 +1,6 @@
+private.key
+private.key.b64
+public.key
+public.key.b64
+.env
+node_modules
